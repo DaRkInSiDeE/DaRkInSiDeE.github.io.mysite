@@ -1,0 +1,12 @@
+* {
+	margin: 10% 10% 0% 0%;
+}
+img{
+	width: 800px;
+	height: 250px;
+}
+img:hover{
+	transform: rotate(720deg);
+	transition-duration: 2s;
+
+}
